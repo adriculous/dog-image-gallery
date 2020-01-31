@@ -1,16 +1,16 @@
 # Dog Image Gallery
-This is a simple dog image gallery app. Class project by [Skillcrush](https://skillcrush.com).
+This is a Dog Image Gallery web app for all the dog lovers out there. Search some cute photos of dogs based on breeds and you can view dog photos by batches. There is also a feature that also enables users to view dog photos at random, regardless of breed.
 
-The app contains the following:
-- A gallery of random cute dog and puppy images via API
-- Filter dog images by breed and number of images to view or by random
-- Built using Python, Flask, Jinja, API
+### Features and Skills
+- Dog and puppy images powered by an API
+- Built using the Flask microframework
+- Jinja templating
+- Routing to pass data between back end and front end and to request data from an API
 
-### See it in action!
-Check out this [repl](https://repl.it/@adriculous/Dog-Image-Gallery) and feel free to play with it.
+**See it in action!** [repl](https://repl.it/@adriculous/Dog-Image-Gallery)
 
 ### Future Plans
-I'll use this app as a base template for a fan art gallery of my favorite J-Pop groups and artists, fan art created by me and fellow fans.
+I'll use this app as a base template for a small fan art gallery of my favorite J-Pop groups and artists, fan art created by me and fellow fans. When I get better, if possible, I can also add a feature in which users would be able to submit their own fan art to be part of the gallery.
 
 ### Some Links if You're Bored
 - [The ADRICULOUS Life](https://adriculous.life) - personal (non-niche) blog
